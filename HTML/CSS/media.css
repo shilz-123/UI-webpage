@@ -1,0 +1,509 @@
+@media screen and (max-width:1800px){
+    .weapons-item.four{
+        right: 105px;
+    }
+}
+@media screen and (max-width:1600px){
+    .about-content{
+        padding-left: 200px;
+    }
+    .col-lg-10{
+        padding-left: 100px;
+        margin-left: 150px;
+    }
+
+    .service-inner-images{
+        margin-left: 20%;
+    }
+    .service-inner-images .shape-one {
+        position: absolute;
+        left: 20%;
+        top: 28%;
+    }
+    .service-inner-images .shape-two {
+        position: absolute;
+        top: 20%;
+        left: 80%;
+        max-width: 20%;
+    }
+    .service-content{
+        margin-left: 0px;
+    }
+    .col-lg-6{
+        padding-left: 6%;
+    }
+    .col-lg-9{
+        padding-left: 275px;
+    }
+    .weapons-item.four{
+        right: 50px;
+    }
+}
+@media screen and (max-width:1500px){
+    .col-lg-4{
+        margin-left: 15%;
+    }
+    .mb-75{
+        margin-left: 33%;
+    }
+    .col-lg-9 {
+        padding-left: 100px;
+    }
+    .contact-wrap{
+        margin: 40px 40px;
+        padding: 50px 100px;
+    }
+    .footer-bottom-girl{
+        left: 18%;
+    }
+}
+@media screen and (max-width:1300px){
+    .about-content{
+        padding-left: 100px;
+    }
+    .service-inner-images{
+        margin-left: 5%;
+    }
+    .service-inner-images .shape-one {
+        position: absolute;
+        left: 6%;
+        top: 28%;
+    }
+    .service-inner-images .shape-two {
+        position: absolute;
+        top: 20%;
+        left: 60%;
+        max-width: 20%;
+    }
+   .mb-75{
+    margin-left: 15%;
+   }
+   .col-lg-7{
+    display: grid;
+    grid-template-columns: 600px 600px;
+   }
+   .col-lg-6{
+    grid-template-columns: 600px 600px;
+   }
+   .col-lg-4{
+    margin-left: 8%;
+   }
+   .education{
+    width: 70%;
+   }
+   .col-lg-8{
+    padding-left: 120px;
+   }
+   .col-lg-14{
+    padding-left: 40px;
+   }
+   .col-lg-10{
+    padding-left: 100px;
+    margin-left: 0px;
+    width: 100%;
+}
+.slide-container{
+    padding-top: 0px;
+}
+}
+@media screen and (max-width:1200px){
+    .testimonial-left-image{
+        width: 80%;
+    }
+    .col-lg-14 {
+        padding-left: 0px;
+        width: 60%;
+        margin: 0px;
+    }
+    .col-lg-9 {
+        padding-left: 50px;
+    }
+    .testimonial-left-image .shape-two {
+        position: absolute;
+        top: 0;
+        left: 260px;
+        max-width: 30%;
+    }
+    .col-12{
+        margin-left: 0px;
+    }
+    .weapons-item.one{
+        left: 30%;
+    }
+    .weapons-item.two{
+        left:32px
+    }
+    .weapons-item.three {
+        left: 35%;
+    }
+    .weapons-item.five{
+        left: 1%;
+    }
+    .footer-bottom-girl{
+        left: 10%;
+    }
+}
+@media screen and (max-width:1100px) {
+    .about-content{
+        padding-left: 80px;
+    }
+    .number-email-cv {
+        display: none;
+    }
+    .service-inner-images{
+        max-width: 70%;
+    }
+    .col-lg-7{
+        display: grid;
+        grid-template-columns: 450px 450px;
+       }
+       .col-lg-6{
+        grid-template-columns: 550px 530px;
+       }
+       .education{
+        width: 70%;
+       }
+       .col-lg-8{
+        padding-left: 100px;
+       }
+       .menu{
+        width: 35%;
+       }
+       .col-12{
+        margin-left: 0px;
+       }
+    }
+@media screen and (max-width:1000px){
+    /* .about-inner-images{
+        position: relative;
+        left: 0%;
+    } */
+    .col-lg-5{
+        display: grid;
+        grid-template-columns: auto;
+        padding-top: 80px;
+    }
+    .about-inner-images .shape-two {
+        position: absolute;
+        top: 200px;
+        right: 55px;
+    }
+    .progress-nav{
+        right: 20px;
+    }
+    .header {
+        position: fixed;
+        height: 85px;
+        width: 100%;
+        z-index: 10;
+        left: 0;
+        top: 0;
+        background: #FAFAFA;
+        box-shadow: 0px 0px 30px 0px rgb(0 0 0 / 10%);
+    }
+    .lets-chat {
+        right: 98px;
+        top: 33px;
+    }
+    .col-lg-7{
+        display: grid;
+        grid-template-columns: auto ;
+    }
+    .col-lg-6{
+        display: grid;
+        grid-template-columns: auto ;
+    }
+    .skill-images-inner{
+        position: relative;
+        right: 0px;
+    }
+    .col-lg-4{
+        flex-wrap: wrap;
+    }
+    .col-lg-8{
+        padding-left: 20px;
+       }
+    .mb-45{
+        margin-top: 30px;
+    }
+    .education{
+        width: 100%;
+    }
+    .col-xl-5{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .counter-wrap{
+        margin-top: -28%;
+    }
+    .col-lg-9 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }.col-lg-10{
+        flex-wrap: wrap;
+    }
+    .col-lg-14{
+        padding: 0;
+        width: 80%;
+        margin-left: auto;
+    margin-right: auto;
+    }
+    .weapons-item.one{
+        left: 17%;
+        top: 45%;
+        width: 21%;
+    }
+    .weapons-item.two{
+        left:0px;
+        top: 27%;
+        width: 10%;
+    }
+    .weapons-item.three {
+        left: 23%;
+        top: 15%;
+    }
+    .weapons-item.four{
+        top: 15%;
+        left: 40%;
+        width: 12%;
+    }
+    .weapons-item.five{
+        top: 65%;
+        width: 13%;
+    }
+    .weapons-item.six{
+        left: 15%;
+        width: 10%;
+        bottom: -22%;
+    }
+    .weapons-item.seven {
+        bottom: -20%;
+        left: 40%;
+        width: 11%;
+    }
+    .weapons-item.eight {
+        width: 15%;
+        bottom: 20%;
+        right: 40%;
+    }
+    .col-lg-11{
+        grid-template-columns: auto;
+    }
+    .footer-bottom-girl{
+        max-width: 20%;
+    }
+   .col-lg-4{
+    display: grid;
+    grid-template-columns: auto;
+   }
+   .testimonial-left-image{
+    margin-left: auto;
+    margin-right: auto;
+   }
+}
+@media  screen and (max-width:850px) {
+    .about-inner-images{
+        position: relative;
+        max-width: 80%;
+    }
+    .about-image{
+        padding-left: 0px;
+    }
+    .menu{
+        width: 50%;
+    }
+}
+@media screen and (max-width:700px){
+    .about-inner-images{
+        max-width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .portfolio-item img{
+        width: 80%;
+    }
+    .weapons-item.three {
+        left: 23%;
+        top: 11%;
+    }
+    .weapons-item.four{
+        padding-bottom: 0px;
+    }
+    .weapon4{
+        padding: 20px 20px 15px 20px
+    }
+    .weapons-item.six{
+        left: 15%;
+        width: 10%;
+        bottom: 0%;
+    }
+    .weapon6{
+        padding: 15px;
+    }
+    .weapons-item.seven {
+        bottom: 0%;
+        left: 32%;
+        width: 11%;
+    }
+    .weapons-item.eight {
+        width: 15%;
+        bottom: 25%;
+        right: 40%;
+    }
+    .col-12{
+        padding-left: 0px;
+    }
+    .col-lg-10{
+        padding-left: 28px;
+    }
+   
+}
+@media screen and (max-width:580px){
+    .about-inner-images{
+        max-width: 80%;
+    }
+    .about-content{
+        padding-left: 5px;
+        padding-top: 70px;
+    }
+    .service-item{
+        flex-wrap: wrap;
+    }
+    .webs{
+        font-size: 17px;
+    }
+    .testimonial-icon{
+        position: absolute;
+        right: 0px;
+    }
+    .col-lg-9 {
+        padding-left: 0px;
+    }
+    .menu{
+        width: 80%;
+    }
+    .weapon1{
+        padding: 35px;
+    }
+    .weapon5{
+        padding: 18px;
+    }
+  .weapon8{
+    padding: 15px;
+  }
+  .weapon2 {
+    padding: 8px;
+}
+.contact-wrap{
+    padding: 50px 40px;
+}
+.service-inner-images{
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bar-list{
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+
+@media screen and (max-width:529px){
+    .clients{
+        margin-top: 35px;
+    }
+    .portfolio-item img{
+        width: 60%;
+    }
+    .testipara{
+        width: 50%;
+    }
+    .testimonial-icon{
+        position: relative;
+        top: 40px;
+    }
+    
+}
+@media screen and (max-width:430px){
+    .weapons-item.four{
+        left: 45%;
+    }
+    .weapons-item.one{
+        top: 37%;
+    }
+    .weapon4{
+        padding: 10px;
+    }
+    .weapon1 {
+        padding: 14px;
+    }
+    .weapon2 {
+        padding: 0px;
+    }
+    .weapon5 {
+        padding: 8px;
+    }
+    .weapon6 {
+        padding: 2px;
+    }
+    .weapon7 {
+        padding: 5px;
+    }
+    .weapon8 {
+        padding: 10px;
+    }
+    .weapon3 {
+        padding: 10px;
+    }
+    .contact-wrap{
+        padding: 50px 10px;
+        margin: 20px 10px;
+    }
+    h1{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width:400px){
+    .about-inner-images{
+        max-width: 100%;
+    }
+    .about-content{
+        padding-left: 5px;
+    }
+    .about-content h3{
+        font-size: 27px;
+    }
+    .about-image{
+        padding-left: 0px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .col-lg-4{
+        margin-left: 2%;
+    }
+    .col-lg-8{
+        padding-left: 10px;
+    }
+    .portfolio-item img{
+        width: 40%;
+    }
+    .testimonial-left-image .shape-two {
+        position: absolute;
+        top: 0;
+        left: 200px;
+        max-width: 30%;
+    }
+    .menu{
+        padding: 50px;
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width:280px){
+    .weapons-item.three{
+        width: 13%;
+    }
+}
